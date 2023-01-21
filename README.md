@@ -4,7 +4,7 @@ Hi 👋 My Name Is 7YADER Mohammed Ali
 Web developer and designer
 --------------------------
 
-born in 2002 I'm full stack Web developer the technology I know (html,css,javascript,react) and iam also know a littel bit in back-end (python-django , sql )
+20 yrs , full stack Web developer the technology (html,css,javascript,react) and in back-end (python-django , sql )
 
 * 🌍  I'm based in Iraq baghdad
 * ✉️  You can contact me at [hyader.mohmammed@gmail.com](mailto:hyader.mohmammed@gmail.com)
