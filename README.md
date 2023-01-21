@@ -1,4 +1,4 @@
-Hi 👋 My name is 7YADER MOHAMMED ALI
+Hi 👋 My Name Is 7YADER Mohammed Ali
 ====================================
 
 Web developer and designer
