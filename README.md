@@ -1,7 +1,7 @@
 Hi 👋 My Name IS 7YADER Mohammed Ali
 ====================================
 
-Web developer and designer
+Front-end developer and designer
 --------------------------
 
 20 yrs , Front-end Web developer the technology html,css,javascript,react
