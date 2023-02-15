@@ -4,7 +4,7 @@ Hi 👋 My Name IS 7YADER Mohammed Ali
 Front-end developer and designer
 --------------------------
 
-20 yrs , Front-end Web developer the technology html,css,javascript,react
+20 yrs , Front-end the technology html,css,javascript,react
 * 🌍  I'm based in Iraq baghdad
 * ✉️  You can contact me at [hyader.mohmammed@gmail.com](mailto:hyader.mohmammed@gmail.com)
 * 🤝  I'm open to collaborating on intersting project
