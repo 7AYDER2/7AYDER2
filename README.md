@@ -1,10 +1,10 @@
-Hi 👋 My Name IS 7YADER Mohammed Ali
+Hi 👋 My Name Is 7YADER Mohammed Ali
 ====================================
 
 Front-end developer and UI-UX designer
 --------------------------
 
-20 yrs , Front-end
+21 yrs , Front-end
 * 🌍  I'm based in Iraq baghdad
 * ✉️  You can contact me at [hyader.mohmammed@gmail.com](mailto:hyader.mohmammed@gmail.com)
 * 🤝  I'm open to collaborating on intersting project
