@@ -1,4 +1,4 @@
-Hi 👋 My Name Is 7YADER Mohammed Ali
+Hi 👋 
 ====================================
 
 Front-end developer and UI-UX designer
