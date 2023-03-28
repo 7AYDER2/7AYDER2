@@ -1,7 +1,7 @@
 Hi 👋 
 ====================================
 
-Front-end developer and UI-UX designer
+Front-end developer
 --------------------------
 
 21 yrs , Front-end
