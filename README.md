@@ -1,10 +1,6 @@
-Hi 👋 
-====================================
-
-Front-end developer
+I'M 7AYDER 
 --------------------------
-
-21 yrs , Front-end
+21 yrs , Jr.Front-end && Software dev
 * 🌍  I'm based in Iraq baghdad
 * ✉️  You can contact me at [hyader.mohmammed@gmail.com](mailto:hyader.mohmammed@gmail.com)
 * 🤝  I'm open to collaborating on intersting project
